@@ -3,6 +3,10 @@
 
 Media source fake buffer/seekable example.
 
+- `MediaSource.prototype.duration`
+- `MediaSource.prototype.setLiveSeekableRange`
+
+See <https://www.w3.org/TR/media-source/#dom-mediasource-duration>
 
 ## Contributing
 
